@@ -57,11 +57,10 @@ Provides the software as-is
 
 Use entirely at your own responsibility.
 
-👤 Author
-leaternrage
 
-Türkçe
-Genel Bakış
+#Türkçe
+
+
 Riot Auto Login, Riot Games hesapları için giriş sürecini daha hızlı ve pratik hale getirmek amacıyla geliştirilmiş hafif bir Windows uygulamasıdır.
 Tekrarlanan giriş işlemlerini kolaylaştırmak isteyen kullanıcılar için tasarlanmıştır.
 
@@ -107,5 +106,5 @@ Yazılımı olduğu gibi sunar
 
 Kullanım tamamen kullanıcının kendi sorumluluğundadır.
 
-👤 Geliştirici
-leaternrage
+👤 Author
+leatern
