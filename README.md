@@ -1,7 +1,5 @@
 # 🚀 Riot Auto Login
 
-**Language / Dil:** [English](#english) | [Türkçe](#türkçe)
-
 ---
 
 # English
