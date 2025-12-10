@@ -40,7 +40,7 @@ Build and run the project
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi24KIKuA-GGE/0.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
+[![Demo Video](https://img.youtube.com/vi/24KIKuA-GGE/0.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
 
 
 ⚠️ Important Notice & Risk Disclaimer
