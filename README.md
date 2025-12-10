@@ -38,8 +38,10 @@ Open RiotAccountManager.sln using Visual Studio
 
 Build and run the project
 
-🎥 Demo Video
-A demonstration video showing how the application works will be added here.
+## 🎥 Demo Video
+
+[![Demo Video](https://img.youtube.com/vi24KIKuA-GGE/0.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
+
 
 ⚠️ Important Notice & Risk Disclaimer
 This project is provided for educational and personal use only.
@@ -56,55 +58,6 @@ Is not responsible for any bans, restrictions, or losses
 Provides the software as-is
 
 Use entirely at your own responsibility.
-
-
-#Türkçe
-
-
-Riot Auto Login, Riot Games hesapları için giriş sürecini daha hızlı ve pratik hale getirmek amacıyla geliştirilmiş hafif bir Windows uygulamasıdır.
-Tekrarlanan giriş işlemlerini kolaylaştırmak isteyen kullanıcılar için tasarlanmıştır.
-
-✨ Özellikler
-🔐 Otomatik Riot hesap girişi
-
-🖥️ Basit ve kullanıcı dostu Windows arayüzü
-
-⚡ Hızlı çalışma ve düşük sistem kaynak kullanımı
-
-🧩 Hafif ve kullanımı kolay yapı
-
-🛠️ Kullanılan Teknolojiler
-C# (.NET / WinForms)
-
-Visual Studio
-
-📦 Kurulum
-Repoyu klonlayın:
-
-bash
-git clone https://github.com/leaternrage/RiotLogin.git
-RiotAccountManager.sln dosyasını Visual Studio ile açın
-
-Projeyi derleyin ve çalıştırın
-
-🎥 Tanıtım Videosu
-Uygulamanın nasıl çalıştığını gösteren tanıtım videosu buraya eklenecektir.
-
-⚠️ Önemli Bilgilendirme & Risk Uyarısı
-Bu proje eğitim ve kişisel kullanım amaçlıdır.
-
-Riot Games servisleriyle etkileşime giren üçüncü parti yazılımların kullanımı, Riot Games’in politikalarına bağlı olarak hesap kısıtlaması veya ban riski taşıyabilir.
-Bu yazılımı kullanan herkes, tüm olası riskleri kabul etmiş sayılır.
-
-Projenin geliştiricisi:
-
-Hesap güvenliği konusunda herhangi bir garanti vermez
-
-Oluşabilecek ban, kısıtlama veya kayıplardan sorumlu tutulamaz
-
-Yazılımı olduğu gibi sunar
-
-Kullanım tamamen kullanıcının kendi sorumluluğundadır.
 
 👤 Author
 leatern
